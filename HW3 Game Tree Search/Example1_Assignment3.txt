@@ -1,0 +1,22 @@
+Initial Board 
+. . 
+. . 
+
+Player 1 Move: (0,0) 0
+/ . 
+. . 
+
+Player 2 Move: (1,1) -1
+/ . 
+. \ 
+
+Player 1 Move: (0,1) 2
+/ / 
+. \ 
+
+Player 2 Move: (1,0) 2
+/ / 
+\ \ 
+
+Player 1 WON! 
+Player 1: 2 | Player 2: -2

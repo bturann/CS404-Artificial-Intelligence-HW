@@ -1,0 +1,26 @@
+Initial Board 
+. . 
+. . 
+
+Player 1 Move: (0,0) 1
+/ . 
+. . 
+
+Player 2 Move: (1,0) 1
+/ . 
+\ . 
+
+Player 1 Move: (0,1) 2
+/ / 
+\ . 
+
+Player 2 Move: (1,0) 0
+/ / 
+\ . 
+
+Player 1 Move: (1,1) 0
+/ / 
+\ / 
+
+DRAW 
+Player 1: 0 | Player 2: 0
